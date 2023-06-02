@@ -5,7 +5,7 @@ As it says--command line interface to whatever you have running locally in your 
 
 > ./oracle.sh "What is the distance from the earth to the sun?"
 
-The structure of the request assumes that you are using an OpenAssistant model.  If you are using a different model, change the assistant, prompter, and endofturn token files.
+The structure of the request assumes that you are using an OpenAssistant model.  If you are using a different model, change the assistant, prompter, and endofturn token files accordingly.
 
 Inspired by Simon Williston's llm.sh
 
